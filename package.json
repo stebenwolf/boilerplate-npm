@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "stebenwolf",
 	"description": "a project via fCC - freeCodeCamp!",
+	"keywords": "freecodecamp, backend, microapi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
